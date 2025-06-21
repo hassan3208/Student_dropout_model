@@ -81,28 +81,3 @@ This project aims to help educational institutions identify students at risk of 
 📬 Contact
 Made with ❤️ by Hassan Imran
 Feel free to open issues or contribute via pull requests.
-
-🖼️ Optional Additions
-Let me know if you'd like me to:
-
-📸 Add screenshots or demo GIFs
-
-☁️ Include Streamlit Cloud deployment instructions
-
-🌐 Convert this to Urdu or make it bilingual for your audience
-
-vbnet
-Copy
-Edit
-
-Now, your title is clearly `H1`, main sections are `H2`, and model names, instructions, or optional sub-sections use `H3`. This will render correctly with visibly different font sizes on GitHub or any markdown viewer.
-
-Would you like me to convert this into a live preview (HTML or PDF) or add badges like “Made with Streamlit,” “Python 3.10,” etc.?
-
-
-
-
-
-
-
-
