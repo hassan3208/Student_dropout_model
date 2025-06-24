@@ -79,23 +79,23 @@ previous_qualification_dict = {
 }
 
 course_dict = {
-    "Informatics Engineering": 1,
-    "Management": 2,
-    "Law": 3,
-    "Psychology": 4,
-    "Sociology": 5,
-    "Medicine": 6,
-    "Civil Engineering": 7,
-    "Economics": 8,
-    "Architecture": 9,
-    "Nursing": 10,
-    "Pharmacy": 11,
-    "Biochemistry": 12,
-    "Mechanical Engineering": 13,
-    "Mathematics": 14,
-    "Computer Science": 15,
-    "History": 16,
-    "Literature": 17
+    "Biofuel Production Technologies": 1,
+    "Animation and Multimedia Design": 2,
+    "Social Service (evening attendance)": 3,
+    "Agronomy": 4,
+    "Communication Design": 5,
+    "Veterinary Nursing": 6,
+    "Informatics Engineering": 7,
+    "Equiniculture": 8,
+    "Management": 9,
+    "Social Service": 10,
+    "Tourism": 11,
+    "Nursing": 12,
+    "Oral Hygiene": 13,
+    "Advertising and Marketing Management": 14,
+    "Journalism and Communication": 15,
+    "Basic Education": 16,
+    "Management (evening attendance)": 17
 }
 
 mother_qualification_dict = {
